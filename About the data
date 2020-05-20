@@ -1,0 +1,9 @@
+About the data:
+
+The Data is assumed on the basis of micro influencers as top 9 influencers from each country in which the campaign was held. 														
+
+The variables:
+
+Conversions	 This variable tells that how many no. of bags of lays with smile were sold during this campaign													
+Seasons	Conversion % in each season is different in each country depending on their respective festive seasons													
+Microinfluencers	Top 9 influencers assumed with A-I with their respective gender, age and social media handle followers corresponding to the reach they have generated with their posts													
